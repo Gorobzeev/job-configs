@@ -1,0 +1,13 @@
+llm_gateway_subscription,model_name,model_version,price_per_1000_prompt_tokens,price_per_1000_response_tokens
+"default_subscription","gpt-35-turbo","0301","0,002","0,002"
+"conversation_insights","gpt-35-turbo","0613","0,0015","0,002"
+"conversation_insights","gpt-35-turbo-16k","0613","0,003","0,004"
+"conversation_insights","gpt-4","0613","0,03","0,06"
+"ai-studio","gpt-35-turbo","0301","0,002","0,002"
+"ai-studio","gpt-35-turbo-16k","0613","0,003","0,004"
+"ai-studio","gpt-4","0314","0,03","0,06"
+"ai-studio","gpt-4","0125-Preview","0,03","0,06"
+"ai-studio","gpt-4-32k","0613","0,06","0,12"
+"ai-studio-2","gpt-35-turbo","1106","0,001","0,002"
+"smary-reply","gpt-35-turbo","0613","0,0015","0,002"
+"agent-smart-assist","gpt-35-turbo","0613","0,0015","0,002"
